@@ -17,6 +17,7 @@ exports.run = (client, message, args) => {
   	"working on cars",
   	"cleaning cars",
   	"doing homework",
+    "making YouTube videos",
   ];
   
   var item = work[Math.floor(Math.random()*work.length)];
